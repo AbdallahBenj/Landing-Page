@@ -1,2 +1,2 @@
-# Landing-Page
-Landing Page Responsive Web Design
+# Landing Page
+Landing Page Responsive Web Design by Abdallah - web developer
