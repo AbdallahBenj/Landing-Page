@@ -274,9 +274,15 @@ main {
 
 @media only screen and (max-width: 420px) {
   #header {
+    top: 0;
+    position: relative;
     height: 16rem;
     flex-wrap: wrap;
   }
+  #header-img {
+  position: fixed;
+  }
+  
   #nav-bar ul {
     flex-wrap: wrap;
   }
@@ -284,7 +290,7 @@ main {
     width: 100vw;
   }
   #features, #how_it_works, #pricing {
-    padding-top: 18rem;
+    padding-top: 7rem;
   }
 
 }
