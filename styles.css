@@ -290,7 +290,7 @@ main {
     width: 100vw;
   }
   #features, #how_it_works, #pricing {
-    padding-top: 7rem;
+    padding-top: 5rem;
   }
 
 }
